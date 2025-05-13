@@ -1,0 +1,8 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@keyframes typewriter {
+  from { width: 0 }
+  to { width: 100% }
+}
